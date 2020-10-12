@@ -1,0 +1,10 @@
+kaggle
+scikit-learn
+numpy
+pandas
+xgboost
+matplotlib
+seaborn
+joblib
+argparse
+scikit-optimize
